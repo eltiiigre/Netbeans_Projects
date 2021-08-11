@@ -1,2 +1,2 @@
-# Netbeans_Projects
+# netbeans_projects
 Redesigning UI for HCI subject.
